@@ -2,3 +2,5 @@ My name is Azul Carrillo.
 I am a 4th year Human Bio mayor at UCM
 My favorite thing to do is read and shop. 
 I have 3 sisters. 
+
+this is my first time pushing to the remote repository by myself 
