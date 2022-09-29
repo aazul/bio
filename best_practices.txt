@@ -48,4 +48,3 @@ Symbolic bebugger- interactive program inspector that allows the user to see exa
       of a real input i describe what the input that goes in certain place should be. 
  8. Collaborate.
  For this best practice I havent done any of the recomendations since ive never worke in a group while coding in one specific file. 
- 
